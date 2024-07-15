@@ -1,4 +1,4 @@
-# FAMista
+# Collaborative Wishlist
 This project is a web app that is created to provide users with the ease of shopping collaboratively online. The main objective is to provide a feeling of shopping offline in the market while shopping online with friends and family.
 
 <div>
